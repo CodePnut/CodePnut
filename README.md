@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m **Mark Velasquez**
+# **Mark Velasquez**
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB3bG91czc2ZzFwcnBvcHRocmpkajhyMmdxajJjeHpkNWxoc2F2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="650" height="450"/>
 
