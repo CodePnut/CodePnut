@@ -1,6 +1,6 @@
 # 👋 Hi there! I’m **Mark Velasquez**
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB3bG91czc2ZzFwcnBvcHRocmpkajhyMmdxajJjeHpkNWxoc2F2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="550" height="450"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB3bG91czc2ZzFwcnBvcHRocmpkajhyMmdxajJjeHpkNWxoc2F2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="650" height="450"/>
 
 I’m a passionate **Software Developer** with a flair for both **front-end** and **back-end** development. Blending creativity with code to craft seamless user experiences.
 
